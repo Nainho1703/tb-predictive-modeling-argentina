@@ -73,5 +73,5 @@ The project integrates **machine learning**, **time-series forecasting**, and **
 ## How to Clone
 
 ```bash
-git clone 
-cd <repo-name>
+git https://github.com/Nainho1703/tb-predictive-modeling-argentina
+cd tb-predictive-modeling-argentina
