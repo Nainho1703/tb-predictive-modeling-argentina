@@ -75,3 +75,11 @@ The project integrates **machine learning**, **time-series forecasting**, and **
 ```bash
 git https://github.com/Nainho1703/tb-predictive-modeling-argentina
 cd tb-predictive-modeling-argentina
+```
+
+## Citation
+
+If you use this code or data, please cite:
+
+Ignacio García, Leonardo Giovanini, and Leonardo López.
+Predictive Modeling and Spatiotemporal Analysis of TB in Argentina: Advancing Control Efforts Through Machine Learning, 2025.
