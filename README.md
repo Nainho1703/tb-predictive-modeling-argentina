@@ -17,7 +17,6 @@ The project integrates **machine learning**, **time-series forecasting**, and **
 
 ### Folders
 - **Bases/** – Raw and processed epidemiological, socioeconomic, and climatic datasets (2010–2022).  
-- **Models/** – Trained models for incidence forecasting and treatment outcome prediction.  
 - **Resultados/** – Model predictions, metrics, and validation results.  
 - **Documentation/** – Figures, tables, and reports used in the manuscript.  
 - **utils/** – Helper scripts (data preprocessing, visualization, and evaluation).  
